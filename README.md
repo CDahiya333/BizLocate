@@ -1,6 +1,8 @@
 # BizLocate
 
 A full-stack web application for discovering and connecting with local businesses. BizLocate allows users to find businesses, view their details, and locate them on a map.
+## Design Mockups
+<img width="1067" alt="Screenshot 2025-04-03 at 11 00 46 AM" src="https://github.com/user-attachments/assets/4b89fda7-7a41-4b5c-acd0-f1a7cc8f5681" />
 
 ## Features
 
